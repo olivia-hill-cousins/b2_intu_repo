@@ -1,0 +1,24 @@
+# Block parent directories (STOPS 658 FILE PROBLEM)
+../
+../../
+../../../
+
+# RStudio auto-generated
+.Rproj.user/
+.Rhistory
+.RData
+.httr-oauth
+.quarto
+
+# macOS junk
+.DS_Store
+.DS_Store?
+._*
+
+# Your PhD data folders
+data/
+main/
+instructions/
+analysis/
+raw_data/
+.Rproj.user
