@@ -2,9 +2,8 @@
 *
 
 # But NOT these:
-!.gitignore
-!pre-reg materials/
-!pre-reg materials/**
+!prereg/*
+!prereg/
 .Rproj.user
 .Rhistory
 .RData
