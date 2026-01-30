@@ -2,8 +2,8 @@
 *
 
 # But NOT these:
-!pre-reg materials/*
-!pre-reg materials/
+!docs/*
+!docs/
 .Rproj.user
 .Rhistory
 .RData
